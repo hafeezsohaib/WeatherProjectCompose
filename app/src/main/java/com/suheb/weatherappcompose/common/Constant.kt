@@ -6,6 +6,7 @@ class Constant {
 
     companion object{
        val a:String="MASTER BRANCH"
+        val b:String="taken"
         const val Base_URL="https://api.openweathermap.org/data/2.5/"
 
         fun kelvinToCelsius(temp: Float?): String? {
