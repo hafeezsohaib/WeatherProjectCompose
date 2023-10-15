@@ -5,7 +5,7 @@ import android.icu.text.DecimalFormat
 class Constant {
 
     companion object{
-       val a:String=""
+       val a:String="MASTER BRANCH"
         const val Base_URL="https://api.openweathermap.org/data/2.5/"
 
         fun kelvinToCelsius(temp: Float?): String? {
